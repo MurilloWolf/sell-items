@@ -1,11 +1,9 @@
 import bed from "../images/bed.jpeg";
 import frezer from "../images/frezer.jpeg";
 import tv from "../images/tv.jpeg";
-import umidificador from "../images/umidificador.jpeg";
 import monitor from "../images/monitor.jpeg";
-import liquidificador from "../images/liquidificador.jpeg";
 import microfone from "../images/microfone.jpeg";
-import cadeira_gamer from "../images/cadeira-gamer.jpeg";
+import knife from "../images/knife.png";
 export const produtos = [
   {
     id: 1,
@@ -41,22 +39,6 @@ export const produtos = [
     imagem: monitor,
   },
   {
-    id: 8,
-    nome: "Liquidificador Britania",
-    preco: "R$ 100,00",
-    descricao: "",
-    tempoUso: "2 anos",
-    imagem: liquidificador,
-  },
-  {
-    id: 9,
-    nome: "Umidificador Black Decker",
-    preco: "R$ 100,00",
-    descricao: "",
-    tempoUso: "2 anos",
-    imagem: umidificador,
-  },
-  {
     id: 10,
     nome: "Microfone HyperX Quadcast Vermelho",
     preco: "R$ 500,00",
@@ -66,10 +48,10 @@ export const produtos = [
   },
   {
     id: 11,
-    nome: "Cadeira gamer pichau",
-    preco: "R$ 150,00",
+    nome: "Jogo de faca tramontina",
+    preco: "R$ 65,00",
     descricao: "",
-    tempoUso: "4 anos",
-    imagem: cadeira_gamer,
+    tempoUso: "2 anos",
+    imagem: knife,
   },
 ];
