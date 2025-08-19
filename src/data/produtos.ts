@@ -49,7 +49,7 @@ export const produtos = [
   {
     id: 11,
     nome: "Jogo de faca tramontina",
-    preco: "R$ 65,00",
+    preco: "R$ 60,00",
     descricao: "",
     tempoUso: "2 anos",
     imagem: knife,
