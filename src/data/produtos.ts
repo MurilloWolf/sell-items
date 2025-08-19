@@ -19,7 +19,7 @@ export const produtos = [
     preco: "R$ 2000,00",
     descricao:
       "Mesa de jantar em madeira para 6 pessoas, com acabamento em verniz. Ideal para família.",
-    tempoUso: "4 ano",
+    tempoUso: "4 anos",
     imagem: frezer,
   },
   {
