@@ -4,6 +4,8 @@ import tv from "../images/tv.jpeg";
 import umidificador from "../images/umidificador.jpeg";
 import monitor from "../images/monitor.jpeg";
 import liquidificador from "../images/liquidificador.jpeg";
+import microfone from "../images/microfone.jpeg";
+import cadeira_gamer from "../images/cadeira-gamer.jpeg";
 export const produtos = [
   {
     id: 1,
@@ -53,5 +55,21 @@ export const produtos = [
     descricao: "",
     tempoUso: "2 anos",
     imagem: umidificador,
+  },
+  {
+    id: 10,
+    nome: "Microfone HyperX Quadcast Vermelho",
+    preco: "R$ 500,00",
+    descricao: "",
+    tempoUso: "4 anos",
+    imagem: microfone,
+  },
+  {
+    id: 11,
+    nome: "Cadeira gamer pichau",
+    preco: "R$ 150,00",
+    descricao: "",
+    tempoUso: "4 anos",
+    imagem: cadeira_gamer,
   },
 ];
